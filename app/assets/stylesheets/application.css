@@ -16,3 +16,9 @@
 body {
 	padding-top: 40px;
 }
+
+.alert {
+  padding: 0px;
+  margin-bottom: 5px;
+  border: 1px solid transparent;
+  border-radius: 4px;
