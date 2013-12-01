@@ -5295,12 +5295,12 @@ a.thumbnail.active {
   color: #333333;
 }
 
-.alert {
+/*.alert {
   padding: 15px;
   margin-bottom: 20px;
   border: 1px solid transparent;
   border-radius: 4px;
-}
+} */
 
 .alert h4 {
   margin-top: 0;

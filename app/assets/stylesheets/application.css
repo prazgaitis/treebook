@@ -14,11 +14,17 @@
 
 
 body {
+	padding-top: 20px;
+}
+.notice {
 	padding-top: 40px;
 }
-
 .alert {
-  padding: 0px;
-  margin-bottom: 5px;
-  border: 1px solid transparent;
+  margin-bottom: 20px;
+  border: 1px solid black;
   border-radius: 4px;
+}
+
+.form-actions {
+	padding-top: 10px;
+}
