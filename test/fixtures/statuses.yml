@@ -6,3 +6,11 @@ one:
 two:
   content: MyText
   user: vaidas
+
+three:
+  content: "Hi I'm Vaidas"
+  user: Vaidas
+
+four:
+  content: "Hi I'm Joe the dog"
+  user: bigjoe
