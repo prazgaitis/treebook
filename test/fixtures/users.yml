@@ -3,3 +3,9 @@ paulius:
   last_name: "Razgaitis"
   profile_name: "paulius"
   email: "prazgaitis@gmail.com"
+
+vaidas:
+  first_name: "Vaidas"
+  last_name: "Razgaitis"
+  profile_name: "vrazgaitis"
+  email: "vrazgaitis@gmail.com"
